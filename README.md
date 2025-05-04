@@ -64,11 +64,6 @@ tahsinul-islam-639004305
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
 </p>
 
-📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="Siam's GitHub stats"/>
-</p>
 
 
 
