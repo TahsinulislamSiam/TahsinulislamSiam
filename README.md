@@ -65,7 +65,10 @@ tahsinul-islam-639004305
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40" alt="Selenium IDE" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" height="40" alt="JMeter" /></a>
 </p>
+
 
 
 
