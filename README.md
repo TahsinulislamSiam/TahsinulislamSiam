@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Siam</h1>
-<h3 align="center">A passionate MERN Stack Developer and Problem solver</h3>
+<h3 align="center">A passionate MERN Stack Developer and Data Analyst</h3>
 
 ---
 
